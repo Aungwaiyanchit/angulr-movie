@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+    background-image: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+} */
+
+body {
+    background-color: #191919;
+}
